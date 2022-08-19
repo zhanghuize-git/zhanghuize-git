@@ -17,6 +17,7 @@ Hi, I am Samba 👋
 - 🤔 趣事: 终身学习 坚持running 
 
 ![](https://raw.githubusercontent.com/thinkingthigh/thinkingthigh/main/assets/github-contribution-grid-snake.svg)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhanghuize-git)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤡 感谢关注  ༼ つ ◕_◕ ༽つ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 
 
