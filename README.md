@@ -8,8 +8,7 @@ Hi, I am Samba 👋
 - 🧬 Peace and love
 
  🎉🎉🎉 
-很高兴你能来到我的GitHub
-⚔江湖凶险，谁不是仗剑走江湖，若剑未佩妥，愿路平坦。
+很高兴你能来到我的GitHub，⚔江湖凶险，谁不是仗剑走江湖，若剑未佩妥，愿路平坦。
 
 #### <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' width='50'> **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
