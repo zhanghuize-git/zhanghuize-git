@@ -31,4 +31,4 @@ Hi, I am Samba 👋
 
 ### 等着你
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>我喜欢交朋友。所以如果你想打个招呼，我会很高兴见到你更多！ </b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>我喜欢交朋友。所以如果你想打个招呼，我会很高兴见到你！ </b> 😊</em>
